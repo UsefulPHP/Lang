@@ -1,6 +1,6 @@
 {
-  "name": "useful/lang",
-  "description": "Useful language handler library",
+  "name": "useful/language",
+  "description": "Useful language translation library",
   "type": "library",
   "authors": [
     {
